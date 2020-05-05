@@ -1,5 +1,5 @@
 # boostcourse-webPrj
-부스트코스 웹 프로그래밍 프로젝트 일지 (소스는 private repository에 있음)
+**부스트코스 웹 프로그래밍 프로젝트 일지 (소스는 private repository에 있음)**
 
 #### 1.  웹 프로그래밍 기초 - > [aboutme](https://github.com/DevLimK1/boostcourse-web/tree/master/aboutme)
 
@@ -13,6 +13,12 @@
 200505 (화)
 
 - 할 일 목록 화면(리스트) :todo-list.html / style.css  구현완료
+
+![이미지144.png](images/이미지144.png)
+
 - 할 일 등록 화면(쓰기) : add-todo.html  / add-style.css 구현완료
 
+![이미지143.png](images/이미지143.png)
+
 ---
+
