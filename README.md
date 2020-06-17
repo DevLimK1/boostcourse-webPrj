@@ -39,7 +39,7 @@
 
 - tododb에 있는 데이터와 JDBC 연결이 잘 되어 결과값 출력되는지 확인
 
-![image-20200508232905376](images\image-20200508232905376.png)
+![image-20200508232905376](images/image-20200508232905376.png)
 
 ---
 
@@ -49,7 +49,7 @@
 - MainServlet 구현하여 TodoDao를 이용해 결과를 조회해서 main.jsp에 전달해서 브라우저에 출력
 - MainServlet에서 포워딩해서 전달받은 결과를 main.jsp에서 JSTL과 EL을 이용해 출력
 
-![image-20200511000349184](images\image-20200511000349184.png)
+![image-20200511000349184](images/image-20200511000349184.png)
 
 ---
 
